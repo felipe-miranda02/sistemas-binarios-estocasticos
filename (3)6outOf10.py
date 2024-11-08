@@ -1,3 +1,10 @@
+'''
+Descripcio: SBS 6 out of 10, donde se evalua 1 si la cantidad de componentes activos es mayor o igual a 6, 0 en caso contrario.
+Cantidad de componentes: 10
+Probabilidad de operacion de cada componente: 1/2
+Tamaño del data set: 512
+'''
+
 import numpy as np
 import pandas as pd
 

@@ -1,3 +1,10 @@
+'''
+Descripcio: SBS que modela grafo segun el modelo all terminal (con caida de aristas)
+Cantidad de componentes: 10
+Probabilidad de operacion de cada componente: 1/2
+Tamaño del data set: 256
+'''
+
 import networkx as nx
 import numpy as np
 import pandas as pd

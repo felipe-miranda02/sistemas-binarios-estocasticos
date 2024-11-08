@@ -1,3 +1,10 @@
+'''
+Descripcio: Modela una simplificacion de la red de trenes de Paris, con un grafo de 2 terminales y caida en aristas (la fuente es "République" y la terminal es "Concorde").
+Cantidad de componentes: 19
+Probabilidad de operacion de cada componente: 2/3
+Tamaño del data set: 1024
+'''
+
 import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt

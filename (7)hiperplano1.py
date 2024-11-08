@@ -1,3 +1,10 @@
+'''
+Descripcio: SBS construido a partir de un hiperplano separador aleatorio.
+Cantidad de componentes: 10
+Probabilidad de operacion de cada componente: 1/2
+Tamaño del data set: 256
+'''
+
 import numpy as np
 import pandas as pd
 

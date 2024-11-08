@@ -1,3 +1,10 @@
+'''
+Descripcio: Modela la red ARPANET en 1973, con un grafo de 2 terminales y caida en aristas (la fuente es "Stanford" y la terminal es "CARN").
+Cantidad de componentes: 27
+Probabilidad de operacion de cada componente: 2/3
+Tamaño del data set: 16384
+'''
+
 import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt
